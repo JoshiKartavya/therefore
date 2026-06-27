@@ -11,13 +11,13 @@ export default function Footer() {
           <p className="text-sm font-light mb-8 max-w-sm">
             Sign up to get first dibs on new arrivals, sales, exclusive content, events and more.
           </p>
-          <form className="flex w-full max-w-md border-b border-brand-dark pb-2" onSubmit={(e) => e.preventDefault()}>
+          <form className="flex w-full max-w-md border border-[#e5e1da] rounded-full py-3 px-6 items-center" onSubmit={(e) => e.preventDefault()}>
             <input 
               type="email" 
               placeholder="Email Address" 
-              className="bg-transparent border-none outline-none flex-grow text-sm text-brand-dark placeholder-brand-base/60"
+              className="bg-transparent border-none outline-none flex-grow text-sm text-brand-base placeholder-[#8c919c]"
             />
-            <button className="text-[10px] font-bold tracking-widest uppercase text-brand-dark hover:text-black transition-colors pl-4">
+            <button className="text-[10px] font-bold tracking-[0.15em] uppercase text-[#333] hover:text-black transition-colors pl-4">
               SUBMIT
             </button>
           </form>

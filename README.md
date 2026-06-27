@@ -33,9 +33,6 @@ This is an independent demo project created for portfolio and presentation purpo
 - Tailwind CSS
 - JavaScript (ES6+)
 - Vite
-- React Router DOM
-- Framer Motion *(optional if used)*
-- GSAP *(optional if used)*
 
 ---
 
@@ -44,14 +41,9 @@ This is an independent demo project created for portfolio and presentation purpo
 ```
 src/
 │
-├── assets/
 ├── components/
-├── pages/
-├── layouts/
-├── hooks/
-├── utils/
-├── data/
 ├── App.jsx
+├── index.css
 └── main.jsx
 ```
 
@@ -62,7 +54,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/therefore-fashion-demo.git
+git clone https://github.com/kartavya-joshi/therefore-fashion-demo.git
 ```
 
 Go into the project
@@ -145,12 +137,6 @@ All brand assets, logos, product images, and trademarks belong to **Therefore Fa
 **Kartavya Joshi**
 
 Frontend Developer & UI Designer
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Portfolio: https://yourportfolio.com
 
 ---
 
