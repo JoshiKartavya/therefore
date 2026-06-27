@@ -7,6 +7,7 @@ import Ticker from './components/Ticker';
 import Social from './components/Social';
 
 function App() {
+  document.title = "Home Activewear - Therefore Fashion";
   return (
     <div className="min-h-screen flex flex-col bg-brand-light">
       <Header />
