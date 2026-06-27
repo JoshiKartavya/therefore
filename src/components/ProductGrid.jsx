@@ -29,7 +29,7 @@ export default function ProductGrid() {
   };
 
   return (
-    <section className="py-24 px-4 md:px-12 max-w-[1600px] mx-auto">
+    <section className="pt-24 pb-8 px-4 md:px-8 max-w-[1600px] mx-auto">
       <div className="flex justify-between items-end mb-10 border-b border-brand-base/20 pb-4">
         <h2 className="text-3xl md:text-4xl font-serif text-brand-dark">Trending Now</h2>
         <a href="#" className="text-[10px] tracking-[0.2em] font-medium uppercase text-brand-base hover:text-black transition-colors">VIEW ALL</a>

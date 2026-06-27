@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="absolute top-0 left-0 w-full z-50 pt-6 pb-4 px-6 md:px-12 flex items-center justify-between">
+    <header className="absolute top-0 left-0 w-full z-50 pt-4 pb-2 md:pt-6 md:pb-4 px-6 md:px-12 flex items-center justify-between">
       {/* Logo */}
       <div className="flex-1">
         <a href="/" className="inline-block">

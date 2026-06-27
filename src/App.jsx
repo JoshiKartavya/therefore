@@ -29,7 +29,7 @@ function App() {
     <div className="min-h-screen flex flex-col bg-brand-light">
       <Header />
 
-      <main className="flex-grow pt-24">
+      <main className="flex-grow pt-16 md:pt-24">
         <Hero />
         <Ticker />
         <ProductGrid />
